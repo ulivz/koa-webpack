@@ -37,7 +37,7 @@
     "joi": "^14.3.1",
     "loud-rejection": "^1.6.0",
     "merge-options": "^1.0.0",
-    "webpack-dev-middleware": "^3.0.0",
+    "webpack-dev-middleware": "3.0.0",
     "webpack-hot-client": "^4.1.0"
   },
   "devDependencies": {
